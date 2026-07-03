@@ -13,8 +13,6 @@ L'application est accessible en ligne : **[👉 Tester l'application en direct](
 *   **Moteur Agronomique (FAO-56) :** Algorithme de suivi dynamique du bilan hydrique du sol prenant en compte la Capacité au Champ, la Réserve Utile (RU) et la Réserve Facilement Utilisable (RFU).
 *   **Système Expert d'Alerte :** Calcul automatisé de la dose exacte d'irrigation requise dès que les réserves du sol franchissent le seuil critique de confort (50%).
 
-## 💻 Aperçu de l'Interface
 
-![Dashboard Streamlit](dashboard_streamlit.png) *(Placez votre capture d'écran à la racine du dépôt pour l'afficher ici)*
 
 
